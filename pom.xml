@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mcams.backend</groupId>
 	<artifactId>mcams-backend-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>Music Composer and Artist Management System</name>
 	<description>Music Composer and Artist Management System</description>
 	<properties>
@@ -42,6 +42,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
 	</dependencies>
 
 	<build>
